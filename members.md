@@ -102,7 +102,6 @@ Format:
 | Collin Watts | [Locke Watts](https://github.com/LockeWatts) || Junior at the University of Georgia Honors program studying CS, been programming for a decade. Specialties in Java and mobile development. |
 | Conor Schaub | [akston](https://github.com/akston) | Currently learning Ruby, interested in Python. Would eventually like to step up to a lower level language such as C. |
 | Dag Velovic | [dagvelovic](https://github.com/dagvelovic) | C# |
-| Daniel Sillitti | [dansillitti>](https://github.com/dansillitti) | No coding experience, but excited to start learning.  Currently working QA and hoping to learn enough to start implementing automated testing. |
 | Daniel Berger | [danidin](https://github.com/danidin) ||
 | Daniel Zhang | [thedanzhang](https://github.com/thedanzhang) | Junior in University studying CS. Know Python, Java. Would love to gain experience in open source and app development (web or mobile). Looking to get in to entrepreneurship and tech startups. ||
 | Danielle Cerisier | [dpekkle](https://github.com/dpekkle) | Learning Python |
